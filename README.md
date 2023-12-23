@@ -1,5 +1,4 @@
 # 🎥 YouTube Analysis
-#### -- Cristine Huang
 
 </n>
 
